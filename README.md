@@ -1,4 +1,4 @@
-# Aerospace Industry
+# Modular Genetics Engineering
 ### Minecraft MOD Project #10
 
 **MOD Version**: 0.1.0 *(Still in development. When it's done, maybe mod versions changed or not.)*   
@@ -6,9 +6,8 @@
 
 **Author**: APUcard
 
-**Number of team members**: Single *(Currently no member)*   
-**NOTE**: You can request to join the team at any time.   
-**[You can request here](https://forms.gle/7j4mHkNg7Kyhdz5U8)**
+**Number of team members**: Single   
+Team has been dissolved. No more receives join request.
 
 -----
 
